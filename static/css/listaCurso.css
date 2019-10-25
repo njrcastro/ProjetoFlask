@@ -1,0 +1,44 @@
+.comandatbl{
+    padding: 10px;
+    background: #13394c;
+    color: #d6d6d6;
+}
+.corpo {
+    height: 100%;
+    width: 1311px;
+    margin-top:30px;
+    padding: 10px;
+    
+}
+.boxVerde{
+    padding: 10px;
+    height: 100%;
+    width: 900px;
+    color: #13394c;
+    border-radius:8px;
+	
+}
+h3{
+    text-transform: uppercase;
+    margin: auto;
+}
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color:  #13394c;
+}
+table{
+    border: 1px solid;
+    border-radius:4px;
+    margin-left: 50px;
+}
+table td{
+    line-height: 25px; 
+}
+
+.imagem{
+    float:left;
+    margin-left: 1200px;
+    margin: 10px  10px 10px 30px;
+   
+}

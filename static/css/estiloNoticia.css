@@ -1,0 +1,54 @@
+
+
+#direita {
+    text-align : center;
+    background:rgb(19, 57, 76)
+}
+
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
+h2{
+    text-transform: uppercase;
+    color:#D6D6D6;
+    position: absolute;
+    margin-left: 350px;
+
+}
+
+.noticia{
+    padding: 10px;
+    background: #13394c;
+    color: #d6d6d6;
+    width:980px;
+    height:300px;
+
+}
+
+.imagem{
+    margin-top:25px;
+    width:270px;
+    height:250px;
+    position:absolute;
+    
+}
+.p{
+    margin-top: auto;
+    color: white;
+    float: left;
+ }
+
+ .teste {
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 299px;
+    height: 100px;
+    color: white;
+    float: left;
+}
+
+
+
