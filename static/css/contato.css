@@ -1,0 +1,38 @@
+#direita {
+    text-align : center;
+    background:rgb(19, 57, 76)
+}
+
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
+h3{
+    text-transform: uppercase;
+    margin: auto;
+}
+
+p{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 13px;
+}
+
+.contato{
+    padding: 10px;
+    color: #13394c;
+}
+
+.imgMaps{
+    position:absolute;
+    display:table-cell;
+    margin-top: 300px;
+    margin-left:450px;
+    float:left;
+}
+.a{
+    width:"1500";
+    height:"900";
+}

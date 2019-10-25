@@ -1,0 +1,36 @@
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
+h3{
+    text-transform: uppercase;
+    margin: auto;
+    color: #13394c; 
+}
+
+p{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 14px;
+    color:  #13394c;
+}
+
+.detalhecurso li{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 14px;
+    color:  #13394c
+}
+
+.detalhecurso{
+    padding: 10px;
+    color: #d6d6d6;
+    margin: 10px;
+}
+
+.imgdetalhecurso{
+    width: 900px;
+    margin-bottom: 20px;
+}
