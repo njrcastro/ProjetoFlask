@@ -1,0 +1,28 @@
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
+h3{
+    text-transform: uppercase;
+    margin: auto;
+}
+
+p{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 14px;
+    color:  #13394c
+}
+
+.disciplina{
+    padding: 10px;
+    color: #d6d6d6;
+    margin: 10px;
+}
+
+.destcurso{
+    width: 900px;
+    margin-bottom: 20px;
+}

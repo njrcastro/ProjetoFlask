@@ -1,0 +1,25 @@
+
+
+h1{
+    text-transform: uppercase;
+    margin-top: auto;
+    color: #13394c;
+}
+
+h3{
+    text-transform: uppercase;
+    margin: auto;
+}
+
+p{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 13px;
+}
+
+.recados{
+    padding: 10px;
+    background: #13394c;
+    color: #d6d6d6;
+    margin: 10px;
+}

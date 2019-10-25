@@ -1,0 +1,114 @@
+html {
+    padding: 0px;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: #06152e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+head {
+    display: block;
+}
+
+.header {
+    height: 63px;
+    background: #13394c;
+    width: 1333px;
+}
+
+.logo {
+    width: 15%;
+    float: left;
+}
+
+#menu {
+    float: left;
+    margin-left: 40px;
+    margin-top: 17px;
+}
+
+  #menu ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+    
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    background-color: #13394c;
+    color: #d6d6d6;
+    text-decoration: none;
+    border-bottom: 3px solid #D6D6D6;
+}
+
+#menu ul li a:hover {
+    background-color:#EDEDED;
+    color: #6D6D6D;
+    border-bottom:3px solid #0f6fff;
+}
+
+#esquerda {
+    float:left;
+     /* diminuimos a largura para não quebrar o layout. 
+      * valor antigo 220
+      */
+    height: 300px;
+    width: 300px;
+    margin: 10px 10px 10px 0px;
+    background:rgb(153, 153, 153);
+}
+
+#corpo {
+    float: left;
+    height: 100%;
+    width: 966px;
+    padding: 20px;
+    margin: 10px 0px 10px 0px;
+    background: #D6D6D6;
+}
+
+#direita {
+    float:left;
+    height: 300px;
+    width: 294px;
+    margin: 10px 0px 10px 10px;
+    background:rgb(153, 153, 153);
+}
+
+footer a:hover{
+    color: #0f6fff;;
+    text-decoration: none;
+}
+
+footer a{
+    color: #D6D6D6;
+    text-decoration: none;
+}
+
+#direita {
+    text-align : center;
+    background:rgb(19, 57, 76)
+}
+
+footer {
+    width: 1318px;
+    clear:both;
+    text-align: right;
+    padding: 8px;
+    display: block;
+    background-color:black;
+    font-size: 14px;
+}
+.rodaPeImg{
+    position:absolute;
+    margin-left:590px; 
+    margin-top: -4px;
+    color: #FFF;
+}
+
